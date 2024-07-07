@@ -21,7 +21,26 @@ Watch the video overview of the project [here](https://youtu.be/ucwBcTgxyME?si=a
 
 Here are some screenshots of the application:
 
-![Welcome Screen](assets/screenshots/welcome_screen.png)
-![Home Screen](assets/screenshots/home_screen.png)
-![Video Screen](assets/screenshots/video_screen.png)
-![Description Screen](assets/screenshots/description_screen.png)
+### Welcome Screen
+
+<p align="center">
+  <img src="assets/screenshots/welcome_screen.png" alt="Welcome Screen" />
+</p>
+
+### Home Screen
+
+<p align="center">
+  <img src="assets/screenshots/home_screen.png" alt="Home Screen" />
+</p>
+
+### Video Screen
+
+<p align="center">
+  <img src="assets/screenshots/video_screen.png" alt="Video Screen" />
+</p>
+
+### Description Screen
+
+<p align="center">
+  <img src="assets/screenshots/description_screen.png" alt="Description Screen" />
+</p>
