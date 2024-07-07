@@ -35,7 +35,10 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                         BorderRadius.only(bottomRight: Radius.circular(70)),
                   ),
                   child: Center(
-                    child: Image.asset("assets/images/books.png"),
+                    child: Image.asset(
+                      "assets/images/books.png",
+                      scale: 0.7,
+                    ),
                   ),
                 ),
               ],
