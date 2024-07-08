@@ -23,7 +23,6 @@ Smart course app is built in flutter. App design is based on [Smart Course](http
 
 ## Screenshots
 
-Android HomePage              |  Android Recommended Page
-
-:-------------------------:|:-------------------------:
-<img src="screenshots/img_1.png" alt="Home Screen" /> | <img src="screenshots/img_3.png" alt="Recommended Screen" />
+| Android HomePage | Android Recommended Page |
+|------------------|---------------------------|
+| ![Home Screen](screenshots/img_1.png) | ![Recommended Screen](screenshots/img_3.png) |
